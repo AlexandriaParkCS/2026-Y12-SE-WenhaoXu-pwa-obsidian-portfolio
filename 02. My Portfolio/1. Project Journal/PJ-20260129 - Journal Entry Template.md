@@ -1,0 +1,20 @@
+**Date:** 29 January 2026  
+**Project:** Virtual Whiteboard (Visual Epicure)
+**Module:** Project Proposal 
+
+**What I did:**
+- Wrote the project proposal from PP-02 to PP-06
+	- Only *Proposed Solutions* fully finished
+- Started on Application Design, finishing AD-01's flowchart
+
+**Why I did it:**
+- Needed to propose my project
+
+**Challenges:**
+- Figuring out the security / performance for future coding
+
+**Next steps:**
+- Finishing the project proposal and starting on the code
+
+**Reflection:** 
+- Currently am not very clear in my scope and the goal after project proposal
