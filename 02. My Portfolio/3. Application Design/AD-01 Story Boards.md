@@ -15,4 +15,8 @@ When a user registers successfully, they are brought to the dashboard where they
 ![[Pasted image 20260204130315.png]]
 The whiteboard creation screen allows for flexibility. 
 
-The user 
+The user is presented with multiple options, such as an infinite whiteboard or a whiteboard bound by a specific size. The user will be allowed to choose from set of preset options or create their own customised layouts. Having more options allows for flexibility in visualisations.
+
+The creation screen should not be too complex, while maintaining the ability for a variety in customisation. The screen will allow for users to select more advanced options through a dedicated button.
+
+The whiteboard itself will have many tools that will improve efficiency. There will be tools like the straight line, polygon tools, text, ruler, and more.
