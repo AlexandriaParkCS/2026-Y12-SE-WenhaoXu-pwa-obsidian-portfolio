@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
+                "file": "01. Student Guide/5. Application Testing/AT-TR - 20251125.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PP-02 Problem Description"
+              "title": "AT-TR - 20251125"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
+                "file": "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PP-02 Problem Description"
+              "title": "PP-08 Budget"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. My Portfolio/1. Project Journal/PJ-20260208.md",
+                "file": "02. My Portfolio/1. Project Journal/PJ-20260213.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PJ-20260208"
+              "title": "PJ-20260213"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,44 +239,45 @@
       "note-annotations:Enable highlighting mode": false
     }
   },
-  "active": "53ac301868a19080",
+  "active": "8dda1f724ba677b2",
   "lastOpenFiles": [
-    "02. My Portfolio/1. Project Journal/PJ-20260205.md",
-    "02. My Portfolio/1. Project Journal/PJ-20260208.md",
-    "02. My Portfolio/1. Project Journal/PJ-20260203.md",
-    "02. My Portfolio/1. Project Journal/PJ-20260129.md",
-    "Images/Pasted image 20260204111424.png",
-    "01. Student Guide/3. Application Design/AD-02 Data Flow Diagrams.md",
-    "01. Student Guide/3. Application Design/AD-03 Structure Chart.md",
-    "01. Student Guide/3. Application Design/AD-01 Story Boards.md",
-    "01. Student Guide/2. Project Proposal/PP-03 Proposed Solution.md",
-    "02. My Portfolio/3. Application Design/AD-01 Story Boards.md",
-    "02. My Portfolio/3. Application Design/AD-02 Data Flow Diagrams.md",
+    "02. My Portfolio/1. Project Journal/PJ-20260213.md",
+    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
     "02. My Portfolio/3. Application Design/AD-03 Structure Chart.md",
+    "01. Student Guide/5. Application Testing/AT-TR - 20251125.md",
     "02. My Portfolio/3. Application Design/AD-04 Input Process Output Charts.md",
+    "02. My Portfolio/3. Application Design/AD-02 Data Flow Diagrams.md",
+    "02. My Portfolio/3. Application Design/AD-01 Story Boards.md",
     "02. My Portfolio/3. Application Design/AD-05 Entity Relationship Diagrams.md",
-    "02. My Portfolio/3. Application Design/AD-06 Data Dictionary.md",
     "02. My Portfolio/3. Application Design/AD-07 Class Diagrams.md",
-    "02. My Portfolio/2. Project Proposal/PP-05 Methodology.md",
+    "02. My Portfolio/3. Application Design/AD-06 Data Dictionary.md",
     "02. My Portfolio/2. Project Proposal/PP-04 Deliverables.md",
     "02. My Portfolio/2. Project Proposal/PP-06 Timeline.md",
     "02. My Portfolio/2. Project Proposal/PP-07 Resources.md",
-    "02. My Portfolio/2. Project Proposal/PP-08 Budget.md",
-    "01. Student Guide/2. Project Proposal/PP-02 Problem Description.md",
-    "02. My Portfolio/2. Project Proposal/PP-02 Problem Description.md",
-    "02. My Portfolio/2. Project Proposal/PP-03 Proposed Solution.md",
-    "Pasted image 20260208111813.png",
-    "Images/Pasted image 20260208111610.png",
-    "Images",
-    "Images/Pasted image 20260129192706.png",
-    "Images/Pasted image 20260204113306.png",
-    "Images/Pasted image 20260204130315.png",
-    "02. My Portfolio/1. Project Journal/PJ-20260204.md",
-    "02. My Portfolio/1. Project Journal/PJ- Project Journal Template.md",
+    "02. My Portfolio/4. Application Implementation/AI-01 Code Repository.md",
+    "02. My Portfolio/1. Project Journal/PJ-20260211.md",
+    "02. My Portfolio/1. Project Journal/PJ-20260208.md",
+    "02. My Portfolio/5. Application Testing/AT-TR - Test Report Template.md",
+    "02. My Portfolio/5. Application Testing/AT-TC-000 - Test Case Template.md",
+    "02. My Portfolio/4. Application Implementation/CR-20251126 - Code Review Report Template.md",
+    "01. Student Guide/5. Application Testing/AT-TC-010 - Forgotten Password.md",
+    "01. Student Guide/5. Application Testing/AT-TC-001 - Valid Login.md",
+    "01. Student Guide/5. Application Testing/About Application Testing.md",
+    "01. Student Guide/4. Application Implementation/AI-01 Code Repository.md",
+    "01. Student Guide/4. Application Implementation/About Application Implementation.md",
+    "01. Student Guide/4. Application Implementation/PWA Architecture.png",
+    "01. Student Guide/4. Application Implementation/CR-20251126 - Good Code Review Report.md",
+    "01. Student Guide/4. Application Implementation/CR-20251126 - Bad Code Review Report.md",
     "01. Student Guide/3. Application Design/Transaction Management UML Class Diagram.png",
     "01. Student Guide/3. Application Design/Sign Up Story Board.png",
     "01. Student Guide/3. Application Design/Generate Dashboard Structure Chart.png",
     "01. Student Guide/3. Application Design/Categorise Transactions Flow Chart.png",
+    "01. Student Guide/3. Application Design/BudgetWise ERD.png",
+    "01. Student Guide/3. Application Design/BudgetWise DFD Level 1.png",
+    "01. Student Guide/3. Application Design/BudgetWise DFD Level 0.png",
+    "Images/Pasted image 20260211085504.png",
+    "Images/Pasted image 20260204111424.png",
+    "Images",
     "01. Student Guide/5. Application Testing",
     "01. Student Guide/4. Application Implementation",
     "01. Student Guide/3. Application Design",
