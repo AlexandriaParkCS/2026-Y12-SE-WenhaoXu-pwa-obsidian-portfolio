@@ -1,5 +1,5 @@
 **Date:** 
-**Project:** Virtual Whiteboard (Visual Epicure)
+**Project:** Chore Sheet
 **Module:** 
 
 **What I did:**
