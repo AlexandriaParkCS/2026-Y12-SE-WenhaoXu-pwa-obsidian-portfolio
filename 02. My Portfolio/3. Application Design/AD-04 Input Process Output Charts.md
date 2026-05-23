@@ -6,6 +6,7 @@ Input:
 - Username
 - Email
 - Password
+
 Process:
 - Sanitise Username, Email and Password
 - Sign Up
@@ -18,24 +19,21 @@ Process:
 	- If database has a matching username AND email, return valid check
 	- Check if password matches username and email
 	- If password matches username and email, return valid check
-		- Allow for 5 attempts if password does not match
-		- If 5 attempts reached, lock account for 5 minutes
 Output:
 - Success Message / Error Message
 - Authentication session token
 #
-**Whiteboard Creation**
-The user's whiteboards
+**Chore Creation**
+The user's chores
 
 Input:
 - Name
-- Whiteboard settings
-	- Size
-	- Templates
+- Chore description
+- Chore time
 Process:
-- Assigns whiteboard the name the user gave
-- Sets the whiteboard to the user's chosen size
-- Sets the whiteboard to the user's chosen template
+- Assigns chore the name the user gave
+- Sets chore's time to the user's chosen time
+- Sets chore description to the description the user chose
 Output:
-- Whiteboard is created
-- Whiteboard is saved onto the dashboard
+- Chore is created
+- Chore sent to the database with User ID

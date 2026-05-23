@@ -2,7 +2,7 @@
 **Test Case ID:** TC-010
 
 **Description:** 
-Verify that a user can reset their password using a valid email address.
+- Verify that a user can reset their password using a valid email address.
 
 **Preconditions:**
 - A user account with a registered email `user@example.com` exists.
